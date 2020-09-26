@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+h1{
+	color: #5D6FFF;
+	font-size: 60px;
+}
+.first{
+	color: #FF2DAC;
+}
+
+.footer-Change{
+    border-top:none;
+}
+.modal-body b{
+
+    display: none;
+    position: absolute;
+    font-size: 12px;
+    font-style: normal;
+    color: red;
+    width: 200px;
+    height: 10px;
+}
+.content {
+  width: 600px;
+  height: 600px;
+  position: absolute;
+  top: 50%;
+  left: 30%;
+  transform: translate(-30%,-50%);
+}
+
+#table-1 {
+  width: 500px;
+  line-height: 25px;
+}
+
+#lin {
+  margin: 20px 0;
+  height: 30px;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+.queryScore {
+  height: 30px;
+}
+td{
+  padding: 0px 10px;
+}
